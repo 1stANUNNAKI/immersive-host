@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/homepage-preview.png" alt="immersive-host — Home Page Preview" width="100%" />
+</p>
+
 # ImmersiveHost
 
 [![AppVeyor master branch Build Status](https://img.shields.io/appveyor/ci/ntauthority/immersive-host/master.svg)](https://ci.appveyor.com/project/ntauthority/immersive-host)
